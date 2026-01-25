@@ -2,6 +2,8 @@
 NeuralFusion™ — Cognitive Skill Framework for Integrated Reason-Making
 Invented by Life Edet
 
+Whitepaper: /whitepaper/NeuralFusion_Whitepaper_v1.pdf
+
 Overview
 NeuralFusion™ is a cognitive skill framework designed to train the human mind to integrate multiple thinking modes into a single controlled synthesis process.
 Rather than optimizing individual thinking styles (analytical, intuitive, associative, reflective), NeuralFusion™ focuses on coordinating them under conscious command.
