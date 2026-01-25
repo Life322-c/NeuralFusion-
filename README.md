@@ -4,6 +4,11 @@ Invented by Life Edet
 
 Whitepaper: /whitepaper/NeuralFusion_Whitepaper_v1.pdf
 
+Whitepaper:
+/NeuralFusion_Whitepaper_v1.pdf
+
+DOI:https://doi.org/10.5281/zenodo.18111026
+
 Overview
 NeuralFusion™ is a cognitive skill framework designed to train the human mind to integrate multiple thinking modes into a single controlled synthesis process.
 Rather than optimizing individual thinking styles (analytical, intuitive, associative, reflective), NeuralFusion™ focuses on coordinating them under conscious command.
