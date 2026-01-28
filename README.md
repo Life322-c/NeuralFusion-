@@ -8,7 +8,7 @@ This repository reflects the conceptual foundation that supports the NeuralFusio
 
 
 
- Why NeuralFusion™ Exists
+ Why NeuralFusion™ Exists:
 Most people do not suffer from low intelligence.
 They suffer from uncoordinated intelligence.
 Symptoms:
@@ -55,7 +55,7 @@ The goal is single-output thinking.
 
 
  Core Training Principles
-Thinking is a skill
+Thinking is a skill,
 Skills can be trained
 Structure creates clarity
 Fusion creates speed
@@ -78,7 +78,7 @@ Public documentation
 They are two halves of one system.
 
 
- What You Will Learn
+ What You Will Learn:
 How to stabilize noisy thinking
 How to prevent mental overload
 How to structure reasoning
@@ -86,7 +86,7 @@ How to make decisions faster
 How to lead your own mind
 
 
- Getting Started
+ Getting Started:
 Read the framework overview
 Study the system diagram
 Try one mini-exercise
@@ -103,13 +103,12 @@ Digital training platform
 Research collaboration
 
 
- Inventor
 Life Edet
 Inventor of NeuralFusion™
 Cognitive Skill Architect
 
 
- Intellectual Property
+ Intellectual Property:
 NeuralFusion™ is an original cognitive framework developed by Life Edet.
 All rights reserved.
 
