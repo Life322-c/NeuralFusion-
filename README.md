@@ -91,7 +91,8 @@ Read the framework overview
 Study the system diagram
 Try one mini-exercise
 Observe mental clarity shift
-For full training, use the NeuralFusion™ Lessons Manual.Check bio
+For full training, use the NeuralFusion™ Lessons Manual.
+https://selar.com/37uh58996z
 
 
 
